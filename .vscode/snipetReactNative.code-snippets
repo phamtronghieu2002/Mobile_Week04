@@ -1,0 +1,12 @@
+{
+
+	"Print to console": {
+		"scope": "javascript,typescript",
+		"prefix": "s",
+		"body": [
+			"style={styles.$0}",
+		
+		],
+		"description": "Log output to console"
+	}
+}
